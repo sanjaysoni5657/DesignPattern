@@ -1,0 +1,26 @@
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.csprojAssemblyReference.cache
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\sanja\Documents\Work\OTD Demo\Singleton Demo\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.csprojAssemblyReference.cache
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\sanja\Documents\Work\My Github\DesignPattern\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache

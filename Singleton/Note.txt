@@ -1,0 +1,20 @@
+Why Singleton classes are sealed? --> Nested Class can provide instance
+Why don't we use Static variable instead of Singleton Class?
+Why Logger should be Singleton?
+
+Interactive Session -- 
+
+Rule 1. Whatever would be asked, you need to answer
+Rule 2. If your answer is same as other collegue then say same as "person name" 
+        else convey your point
+Rule 3. Every Minute Doubt or Silly Doubt you can ask.
+Rule 4. Stop me at any step Whenever you feel, you missed that
+Rule 5. Ask More and More to get more information 
+
+
+Real World Example -- Logger, Database Connection of Connection Pool
+
+
+Flashy Lines --
+
+lightning rod in the world of object-oriented programming
